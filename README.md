@@ -353,3 +353,206 @@ to Generalized Category Discovery*
     [[paper]](https://arxiv.org/abs/2407.17816)
 
 
+## 2023
+### Novel Category Discovery (NCD)
+- *Residual Tuning: Toward Novel Category Discovery Without Labels*         
+    Yu Liu, Tinne Tuytelaars            
+    **TNNLS 2023**          
+    [[paper]](https://ieeexplore.ieee.org/document/9690577/authors#authors)
+    [[code]](https://github.com/liuyudut/ResTune)
+
+- *Supervised Knowledge May Hurt Novel Class Discovery Performance*         
+    Ziyun Li, Jona Otholt, Ben Dai, Di Hu, Christoph Meinel, Haojin Yang                
+    **TMLR 2023**                   
+    [[paper]](https://arxiv.org/abs/2306.03648)
+    [[code]](https://github.com/J-L-O/SK-Hurt-NCD)
+
+- *Modeling Inter-Class and Intra-Class Constraints in Novel Class Discovery*               
+    Wenbin Li, Zhichen Fan, Jing Huo, Yang Gao          
+    **CVPR 2023**           
+    [[paper]](https://arxiv.org/abs/2210.03591)
+    [[code]](https://github.com/FanZhichen/NCD-IIC)
+
+- *When and How Does Known Class Help Discover Unknown Ones? Provable Understanding Through Spectral Analysis*                  
+    Yiyou Sun, Zhenmei Shi, Yingyu Liang, Yixuan Li                 
+    **ICML 2023**               
+    [[paper]](https://arxiv.org/abs/2308.05017)                 
+
+- *Class-relation Knowledge Distillation for Novel Class Discovery*             
+    Peiyan Gu, Chuyu Zhang, Ruijie Xu, Xuming He            
+    **ICCV 2023**                 
+    [[paper]](https://arxiv.org/abs/2307.09158) 
+    [[code]](https://github.com/kleinzcy/Cr-KD-NCD)         
+
+- *Towards Novel Class Discovery: A Study in Novel Skin Lesions Clustering*  
+    Wei Feng, Lie Ju, Lin Wang, Kaimin Song, Zongyuan Ge                           
+    **MICCAI 2023**      
+    [[paper]](https://arxiv.org/abs/2309.16451)
+
+
+### Generalized Category Discovery (GCD)
+- *OpenCon: Open-world Contrastive Learning*                    
+    Yiyou Sun, Yixuan Li            
+    **TMLR 2023**
+    [[paper]](https://arxiv.org/abs/2208.02764)
+    [[code]](https://github.com/deeplearning-wisc/opencon)
+
+- *Dynamic Conceptional Contrastive Learning for Generalized Category Discovery* (DCCL)               
+    Nan Pu, Zhun Zhong, Nicu Sebe           
+    **CVPR 2023**                   
+    [[paper]](https://arxiv.org/abs/2303.17393)
+    [[code]](https://github.com/TPCD/DCCL)
+
+- *Open-world Semi-supervised Novel Class Discovery*                    
+    Jiaming Liu, Yangqiming Wang, Tongze Zhang, Yulu Fan, Qinli Yang, Junming Shao              
+    **IJCAI 2023**                  
+    [[paper]](https://arxiv.org/abs/2305.13095)                 
+
+- *Parametric Classification for Generalized Category Discovery: A Baseline Study* (SimGCD)                 
+    Xin Wen, Bingchen Zhao, Xiaojuan Qi             
+    **ICCV 2023**                       
+    [[paper]](https://arxiv.org/abs/2211.11727)
+    [[code]](https://github.com/CVMI-Lab/SimGCD)
+
+- *Learning Semi-supervised Gaussian Mixture Models for Generalized Category Discovery*             
+    Bingchen Zhao, Xin Wen, Kai Han                 
+    **ICCV 2023**                   
+    [[paper]](https://arxiv.org/abs/2305.06144)
+    [[code]](https://github.com/DTennant/GPC)
+
+- *Parametric Information Maximization for Generalized Category Discovery* (PIM)             
+    Florent Chiaroni, Jose Dolz, Ziko Imtiaz Masud, Amar Mitiche, Ismail Ben Ayed               
+    **ICCV 2023**                   
+    [[paper]](https://arxiv.org/abs/2212.00334)
+    [[code]](https://github.com/ThalesGroup/pim-generalized-category-discovery)
+
+- *Discover and Align Taxonomic Context Priors for Open-world Semi-Supervised Learning* (TIDA)                  
+    Yu Wang, Zhun Zhong, Pengchong Qiao, Xuxin Cheng, Xiawu Zheng, Chang Liu, Nicu Sebe, Rongrong Ji, Jie Chen                  
+    **NeurIPS 2023**                        
+    [[paper]](https://openreview.net/forum?id=zrLxHYvIFL)
+    [[code]](https://github.com/rain305f/TIDA)
+
+- *No Representation Rules Them All in Category Discovery*                  
+    Sagar Vaze, Andrea Vedaldi, Andrew Zisserman                
+    **NeurIPS 2023**                    
+    [[paper]](https://arxiv.org/abs/2311.17055)
+
+- *Learn to Categorize or Categorize to Learn? Self-Coding for Generalized Category Discovery*  (InfoSieve)                     
+    Sarah Rastegar, Hazel Doughty, Cees G. M. Snoek                     
+    **NeurIPS 2023**                        
+    [[paper]](https://arxiv.org/abs/2310.19776)
+    [[code]](https://github.com/SarahRastegar/InfoSieve)
+    
+- *A Graph-Theoretic Framework for Understanding Open-World Semi-Supervised Learning*    
+    Yiyou Sun, Zhenmei Shi, Yixuan Li           
+    **NeurIPS 2023**                
+    [[paper]](https://arxiv.org/abs/2311.03524)
+
+- *Generalized Category Discovery with Clustering Assignment Consistency*                   
+    Xiangli Yang, Xinglin Pan, Irwin King, Zenglin Xu           
+    **ICONIP 2023**             
+    [[paper]](https://arxiv.org/abs/2310.19210)
+
+### Continual Category Discovery (CCD) 
+- *Proxy Anchor-based Unsupervised Learning for Continuous Generalized Category Discovery*          
+    Hyungmin Kim, Sungho Suh, Daehwan Kim, Daun Jeong, Hansang Cho, Junmo Kim               
+    **ICCV 2023**                   
+    [[paper]](https://arxiv.org/abs/2307.10943)
+
+- *MetaGCD: Learning to Continually Learn in Generalized Category Discovery*            
+    Yanan Wu, Zhixiang Chi, Yang Wang, Songhe Feng              
+    **ICCV 2023**           
+    [[paper]](https://arxiv.org/abs/2308.11063)
+    [[code]](https://github.com/ynanwu/MetaGCD)
+
+- *Incremental Generalized Category Discovery*              
+    Bingchen Zhao, Oisin Mac Aodha              
+    **ICCV 2023**               
+    [[paper]](https://arxiv.org/abs/2304.14310)
+    [[code]](https://github.com/DTennant/Incremental-Generalized-Category-Discovery/tree/master)            
+
+
+### On-the-fly Category Discovery (OCD)
+- *On-the-Fly Category Discovery*               
+    Ruoyi Du; Dongliang Chang; Kongming Liang; Timothy Hospedales; Yi-Zhe Song; Zhanyu Ma               
+    **CVPR 2023**                   
+    [[paper]](https://ieeexplore.ieee.org/document/10203625/authors#authors)
+    [[code]](https://github.com/PRIS-CV/On-the-fly-Category-Discovery)
+
+### Category Discovery with Domain Shift (CD with Domain Shift)
+- *Boosting Novel Category Discovery Over Domains with Soft Contrastive Learning and All-in-One Classifier*             
+    Zelin Zang, Lei Shang, Senqiao Yang, Fei Wang, Baigui Sun, Xuansong Xie, Stan Z. Li         
+    **ICCV 2023**               
+    [[paper]](https://arxiv.org/abs/2211.11262)
+
+### Distribution-Agnostic Category Discovery (DA-CD)
+- *Novel Class Discovery for Long-tailed Recognition*                   
+    Chuyu Zhang, Ruijie Xu, Xuming He               
+    **TMLR 2023**                   
+    [[paper]](https://arxiv.org/abs/2308.02989)
+    [[code]](https://github.com/kleinzcy/NCDLR)
+
+- *ImbaGCD: Imbalanced Generalized Category Discovery*              
+    Ziyun Li, Ben Dai, Furkan Simsek, Christoph Meinel, Haojin Yang             
+    **CVPR 2023 Workshop**                  
+    [[paper]](https://arxiv.org/abs/2401.05353)
+
+- *Bootstrap Your Own Prior: Towards Distribution-Agnostic Novel Class Discovery*               
+    Muli Yang, Liancheng Wang, Cheng Deng, and Hanwang Zhang       
+    **CVPR 2023**     
+    [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_Bootstrap_Your_Own_Prior_Towards_Distribution-Agnostic_Novel_Class_Discovery_CVPR_2023_paper.html)
+    [[code]](https://github.com/muliyangm/BYOP)
+
+- *Towards Distribution-Agnostic Generalized Category Discovery*                
+    Jianhong Bai, Zuozhu Liu, Hualiang Wang, Ruizhe Chen, Lianrui Mu, Xiaomeng Li, Joey Tianyi Zhou, Yang Feng, Jian Wu, Haoji Hu           
+    **NeurIPS 2023**            
+    [[paper]](https://arxiv.org/abs/2310.01376)
+
+- *Generalized Categories Discovery for Long-tailed Recognition*                
+    Ziyun Li, Christoph Meinel, Haojin Yang             
+    **ICCV 2023 Workshop**                  
+    [[paper]](https://arxiv.org/abs/2401.05352)
+
+### Federated Category Discovery (FCD)
+- *Towards Unbiased Training in Federated Open-world Semi-supervised Learning* (FedoSSL)                 
+    Jie Zhang, Xiaosong Ma, Song Guo, Wenchao Xu            
+    **ICML 2023**                   
+    [[paper]](https://proceedings.mlr.press/v202/zhang23af/zhang23af.pdf)
+    [[code]](https://github.com/cugzj/FedoSSL)   
+
+
+### Category Discovery beyond Images
+- *NEV-NCD: Negative Learning, Entropy, and Variance regularization based novel action categories discovery*            
+    Zahid Hasan, Masud Ahmed, Abu Zaher Md Faridee, Sanjay Purushotham, Heesung Kwon, Hyungtae Lee, Nirmalya Roy                
+    **ICIP 2023**               
+    [[paper]](https://arxiv.org/abs/2304.07354)
+
+
+- *Novel Class Discovery for 3D Point Cloud Semantic Segmentation*                      
+    Luigi Riz, Cristiano Saltori, Elisa Ricci, Fabio Poiesi                 
+    **CVPR 2023**               
+    [[paper]](https://arxiv.org/abs/2303.11610)
+    [[code]](https://github.com/LuigiRiz/NOPS)
+
+- *Decompose Novel into Known: Part Concept Learning For 3D Novel Class Discovery*                      
+    Tingyu Weng, Jun Xiao, Haiyong Jiang                                    
+    **NeurIPS 2023**                                
+    [[paper]](https://openreview.net/forum?id=UYl9IIsjq7&referrer=%5Bthe%20profile%20of%20Jun%20Xiao%5D(%2Fprofile%3Fid%3D~Jun_Xiao4))                      
+
+- *Generalized Category Discovery with Decoupled Prototypical Network*                  
+    Wenbin An, Feng Tian, Qinghua Zheng, Wei Ding, QianYing Wang, Ping Chen                 
+    **AAAI 2023**                       
+    [[paper]](https://arxiv.org/abs/2211.15115)
+    [[code]](https://github.com/Lackel/DPN)
+
+- *Open-world Semi-supervised Generalized Relation Discovery Aligned in a Real-world Setting*                   
+    William Hogan, Jiacheng Li, Jingbo Shang                                
+    **EMNLP 2023**                      
+    [[paper]](https://arxiv.org/abs/2305.13533)
+
+- *An Interactive Interface for Novel Class Discovery in Tabular Data*              
+    Colin Troisemaine, Joachim Flocon-Cholet, Stéphane Gosselin, Alexandre Reiffers-Masson, Sandrine Vaton, Vincent Lemaire             
+    **ECML PKDD 2023**              
+    [[paper]](https://arxiv.org/abs/2306.12919)
+
+    
