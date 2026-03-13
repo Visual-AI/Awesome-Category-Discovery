@@ -555,4 +555,19 @@ to Generalized Category Discovery*
     **ECML PKDD 2023**              
     [[paper]](https://arxiv.org/abs/2306.12919)
 
-    
+## 2020
+### Novel Category Discovery (NCD)
+- *Automatically Discovering and Learning New Visual Categories with Ranking Statistics* (AutoNovel)                  
+    Kai Han, Andrea Vedaldi, Andrew Zisserman                
+    **ICLR 2020**                       
+    [[paper]](https://openreview.net/forum?id=BJl2_nVFPB)
+    [[code]](https://github.com/k-han/AutoNovel)
+
+## 2019
+### Novel Category Discovery (NCD)
+- *Learning to discover novel visual categories via deep transfer clustering* (DTC)                  
+    Kai Han, Andrea Vedaldi, Andrew Zisserman                
+    **ICCV 2019**                       
+    [[paper]](https://arxiv.org/abs/1908.09884)
+    [[code]](https://github.com/k-han/DTC)
+  
