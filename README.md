@@ -555,10 +555,114 @@ to Generalized Category Discovery*
     **ECML PKDD 2023**              
     [[paper]](https://arxiv.org/abs/2306.12919)
 
+## 2022
+### Novel Category Discovery (NCD)
+- Fine-grained Category Discovery under Coarse-grained supervision with Hierarchical Weighted Self-contrastive Learning   
+  **EMNLP 2022**    
+  [[paper]](https://arxiv.org/abs/2210.07733)
+- *A Closer Look at Novel Class Discovery from the Labeled Set*       
+  **NeurIPS Workshop 2022**         
+  [[paper]](https://arxiv.org/abs/2209.09120)
+- *XCon: Learning with Experts for Fine-grained Category Discovery*         
+  **BMVC 2022**             
+  [[paper]](https://arxiv.org/abs/2208.01898) [[code]](https://github.com/YiXXin/XCon)
+- *Residual Tuning: Toward Novel Category Discovery Without Labels*  (ResTune)          
+  **TNNLS 2022**             
+  [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9690577) [[code]](https://github.com/liuyudut/ResTune)
+- *Spacing Loss for Discovering Novel Categories* (Spacing Loss)           
+  **CVPR Workshop 2022**           
+  [[paper]](https://arxiv.org/abs/2204.10595)
+- *Progressive Self-Supervised Clustering With Novel Category Discovery*           
+  **TCYB 2022**             
+  [[paper]](https://ieeexplore.ieee.org/document/9409777) [[code]](https://github.com/jymesen-wang/2022-TCYB-PSSCNCD)
+- *Novel Class Discovery: A Dependency Approach*            
+  **ICASSP 2022**             
+  [[paper]](https://ieeexplore.ieee.org/document/9747827)
+
+### Continual Category Discovery (CCD)
+- *Grow and Merge: A Unified Framework for Continuous Categories Discovery* (GM)           
+  **NeurIPS 2022**           
+  [[paper]](https://arxiv.org/abs/2210.04174) [[code]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/afe37ac3ce109cd33a23a6b3ed0cfc21-Abstract-Conference.html) 
+- *Novel Class Discovery without Forgetting*  (NCDwF)                   
+  **ECCV 2022**              
+  [[paper]](https://arxiv.org/abs/2207.10659) 
+- *Class-incremental Novel Class Discovery* (FRoST)                   
+  **ECCV 2022**         
+  [[paper]](https://arxiv.org/abs/2207.08605) [[code]](https://github.com/OatmealLiu/class-iNCD) 
+
+### Generalized Category Discovery (GCD)
+- *Generalized Category Discovery* (GCD)          
+  **CVPR 2022**       
+  [[paper]](https://arxiv.org/abs/2201.02609) [[code]](https://github.com/sgvaze/generalized-category-discovery)     
+- *Divide and Conquer: Compositional Experts for Generalized Novel Class Discovery* (ComEx)                  
+  **CVPR 2022**           
+  [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Divide_and_Conquer_Compositional_Experts_for_Generalized_Novel_Class_Discovery_CVPR_2022_paper.pdf) [[code]](https://github.com/muliyangm/ComEx)  
+- *Open-World Semi-Supervised Learning*                       
+  **ICLR 2022**                   
+  [[paper]](https://arxiv.org/abs/2102.03526) [[code]](https://github.com/snap-stanford/orca)
+- *OpenLDN: Learning to Discover Novel Classes for Open-World Semi-Supervised Learning*         
+  **ECCV 2022**          
+  [[paper]](https://arxiv.org/abs/2207.02261) [[code]](https://github.com/nayeemrizve/OpenLDN)
+- *Towards Realistic Semi-Supervised Learning*            
+  **ECCV 2022**               
+  [[paper]](https://arxiv.org/abs/2207.02269) [[code]](https://github.com/nayeemrizve/TRSSL)
+  
+### Category Discovery beyond Images
+- *A Method for Discovering Novel Classes in Tabular Data*   
+  **ICKG 2022**   
+  [[paper]](https://www.researchgate.net/publication/368313618_A_Method_for_Discovering_Novel_Classes_in_Tabular_Data) [[code]](https://github.com/ColinTr/TabularNCD)
+
+### Few-Shot Category Discovery (FS-CD)
+- *Meta Discovery: Learning to Discover Novel Classes given Very Limited Data* (MEDI)           
+  **ICLR 2022**                
+  [[paper]](https://openreview.net/forum?id=MEpKGLsY8f) [[code]](https://github.com/Haoang97/MEDI)
+
+### Category Discovery in Scene Understandings
+- *Towards Open-Set Object Detection and Discovery*               
+  **CVPR Workshop 2022**             
+  [[paper]](https://arxiv.org/abs/2204.05604)
+- *Novel Class Discovery in Semantic Segmentation*           
+  **CVPR 2022**              
+  [[paper]](https://arxiv.org/abs/2112.01900) [[code]](https://github.com/HeliosZhao/NCDSS)
+
+## 2021
+### Novel Category Discovery (NCD)
+- *Novel Visual Category Discovery with Dual Ranking Statistics and Mutual Knowledge Distillation* (DualRS)  
+  Bingchen Zhao, Kai Han  
+  **NeurIPS 2021**  
+  [[paper]](https://openreview.net/forum?id=xWq1MVj7YrE) [[code]](https://github.com/DTennant/dual-rank-ncd) 
+- *A Unified Objective for Novel Class Discovery*  (UNO)   
+  Enrico Fini, Enver Sangineto, Stéphane Lathuilière, Zhun Zhong, Moin Nabi, Elisa Ricci   
+  **ICCV 2021**     
+  [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Fini_A_Unified_Objective_for_Novel_Class_Discovery_ICCV_2021_paper.pdf) [[code]](https://github.com/DonkeyShot21/UNO)
+- *Neighborhood Contrastive Learning for Novel Class Discovery* (NCL)      
+  Zhun Zhong, Enrico Fini, Subhankar Roy, Zhiming Luo, Elisa Ricci, Nicu Sebe    
+  **CVPR 2021**     
+  [[paper]](https://arxiv.org/abs/2106.10731) [[code]](https://github.com/zhunzhong07/NCL) 
+- *OpenMix: Reviving Known Knowledge for Discovering Novel Visual Categories in An Open World* (OpenMix)      
+  Zhun Zhong, Linchao Zhu, Zhiming Luo, Shaozi Li, Yi Yang, Nicu Sebe   
+  **CVPR 2021**        
+  [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhong_OpenMix_Reviving_Known_Knowledge_for_Discovering_Novel_Visual_Categories_in_CVPR_2021_paper.pdf) 
+- *AutoNovel: Automatically Discovering and Learning Novel Visual Categories* (AutoNovel aka RS)    
+  Kai Han, Sylvestre-Alvise Rebuffi, Sébastien Ehrhardt, Andrea Vedaldi, Andrew Zisserman         
+  **TPAMI 2021**    
+  [[paper]](https://arxiv.org/abs/2106.15252) 
+- *End-to-end novel visual categories learning via auxiliary self-supervision*     
+  Yuanyuan Qing, Yijie Zeng, Qi Cao, Guang-Bin Huang       
+  **Neural Networks 2021**      
+  [[paper]](https://www.sciencedirect.com/science/article/pii/S0893608021000575) 
+
+### Category Discovery beyond Images
+- *Joint Representation Learning and Novel Category Discovery on Single- and Multi-modal Data* (Joint)   
+  Xuhui Jia, Kai Han, Yukun Zhu, Bradley Green   
+  **ICCV 2021**   
+  [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Jia_Joint_Representation_Learning_and_Novel_Category_Discovery_on_Single-_and_ICCV_2021_paper.pdf) 
+
+
 ## 2020
 ### Novel Category Discovery (NCD)
 - *Automatically Discovering and Learning New Visual Categories with Ranking Statistics* (AutoNovel)                  
-    Kai Han, Andrea Vedaldi, Andrew Zisserman                
+    Kai Han, Sylvestre-Alvise Rebuffi, Sebastien Ehrhardt, Andrea Vedaldi, Andrew Zisserman                
     **ICLR 2020**                       
     [[paper]](https://openreview.net/forum?id=BJl2_nVFPB)
     [[code]](https://github.com/k-han/AutoNovel)
