@@ -646,3 +646,7 @@ to Generalized Category Discovery*
     [[paper]](https://arxiv.org/abs/1908.09884)
     [[code]](https://github.com/k-han/DTC)
   
+## Related Repositories
+
+- [Visual-AI/Category-Discovery](https://github.com/Visual-AI/Category-Discovery) — An survey paper for category discovery.
+- [Awesome-Novel-Class-Discovery](https://github.com/JosephKJ/Awesome-Novel-Class-Discovery) — We appreciate this excellent paper collection curated by Joseph, which complements our repo with additional coverage of novel/class discovery works and resources.
