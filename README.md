@@ -13,7 +13,6 @@
 - [2019](#2019)
 
 ## 2025
-### Generalized Category Discovery (GCD)
 - *ProtoGCD: Unified and Unbiased Prototype Learning for Generalized Category Discovery*  
   Shijie Ma, Fei Zhu, Xu-Yao Zhang, ChengLin Liu  
   **TPAMI 2025**.
@@ -90,20 +89,19 @@ Prompt Transformer for Generalized Category Discovery* (AptGCD)
     [[code]](https://github.com/Visual-AI/HypCD)
     [[project page]](https://visual-ai.github.io/hypcd/)
 
-### Continual Category Discovery (CCD)
+
 - *Continual Generalized Category Discovery: Learning and Forgetting from a Bayesian Perspective* (VB-CGCD)      
     Hao Dai, Jagmohan Chauhan       
     **ICML 2025**      
     [[paper]](https://openreview.net/pdf?id=Jhsyra8NpQ)
     [[code]]( https://github.com/daihao42/VB-CGCD)
 
-### On-the-fly Category Discovery (OCD)
 - *Generate, Refine, and Encode: Leveraging Synthesized Novel Samples for On-the-Fly Fine-Grained Category Discovery*       
   Xiao Liu, Nan Pu, Haiyang Zheng, Wenjing Li, Nicu Sebe, Zhun Zhong      
   **ICCV 2025**      
   [[paper]](https://arxiv.org/abs/2507.04051)
 
-### Category Discovery with Domain Shift (CD with Domain Shift)
+
 - *Hilo: A learning framework for generalized category
 discovery robust to domain shift*             
     Hongjun Wang, Sagar Vaze, Kai Han             
@@ -113,13 +111,12 @@ discovery robust to domain shift*
     [[Project Page]](https://visual-ai.github.io/hilo/)
 
 
-### Federated Category Discovery (FCD)
 - *Federated Continuous Category Discovery and Learning*      
     Lixu Wang, Chenxi Liu, Junfeng Guo, Qingqing Ye, Heng Huang, Haibo Hu, Wei Dong       
     **ICCV 2025** 
     [[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_Federated_Continuous_Category_Discovery_and_Learning_ICCV_2025_paper.pdf)
 
-### Category Discovery beyond Images
+
 - *Generalized Class Discovery in Instance Segmentation*    
   Cuong Manh Hoang, Yeejin Lee, Byeongkeun Kang       
   **AAAI 2025** 
@@ -133,7 +130,6 @@ discovery robust to domain shift*
     [[code]](https://github.com/Lackel/SDC)
 
 ## 2024
-### Novel Category Discovery (NCD)
 - *Novel Class Discovery for Ultra-Fine-Grained Visual Categorization* (RAPL)                               
     Yu Liu, Yaqi Cai, Qi Jia, Binglin Qiu, Weimin Wang, Nan Pu              
     **CVPR 2024**                       
@@ -150,7 +146,6 @@ discovery robust to domain shift*
     **TPAMI 2024**         
     [[paper]](https://ieeexplore.ieee.org/document/10328468)     
 
-### Generalized Category Discovery (GCD)
 - *CiPR: An Efficient Framework with Cross-instance Positive Relations for Generalized Category Discovery*                                                          
     Shaozhe Hao, Kai Han, Kwan-Yee K. Wong                   
     **TMLR 2024**            
@@ -241,7 +236,6 @@ to Generalized Category Discovery*
     [[code]](https://github.com/Clarence-CV/Contexuality-GCD)
 
 
-### Continual Category Discovery (CCD)
 - *Large-scale Pre-trained Models are Surprisingly Strong in Incremental Novel Class Discovery*                 
   Mingxuan Liu, Subhankar Roy, Zhun Zhong, Nicu Sebe, Elisa Ricci       
   **ICPR 2024**          
@@ -276,26 +270,23 @@ to Generalized Category Discovery*
     [[paper]](https://arxiv.org/abs/2410.06535)
     [[code]](https://github.com/mashijie1028/Happy-CGCD)
 
-### On-the-fly Category Discovery (OCD)
 - *Prototypical Hash Encoding for On-the-Fly Fine-Grained Category Discovery*               
     Haiyang Zheng, Nan Pu, Wenjing Li, Nicu Sebe, Zhun Zhong            
     **NeurIPS 2024**                         
     [[paper]](https://arxiv.org/abs/2410.19213)
     [[code]](https://github.com/HaiyangZheng/PHE)
 
-### Category Discovery with Domain Shift (CD with Domain Shift)
+
 - *CDAD-Net: Bridging Domain Gaps in Generalized Category Discovery*                
     Sai Bhargav Rongali, Sarthak Mehrotra, Ankit Jha, Mohamad Hassan N C, Shirsha Bose, Tanisha Gupta, Mainak Singha, Biplab Banerjee               
     **CVPR Workshop 2024**              
     [[paper]](https://arxiv.org/abs/2404.05366)
 
-### Distribution-Agnostic Category Discovery (DA-CD)
 - *Seeing Unseen: Discover Novel Biomedical Concepts via Geometry-Constrained Probabilistic Modeling*               
     Jianan Fan, Dongnan Liu, Hang Chang, Heng Huang, Mei Chen, Weidong Cai              
     **CVPR 2024**                       
     [[paper]](https://arxiv.org/abs/2403.01053)             
 
-### Semantic Category Discovery (SCD)
 - *What's in a Name? Beyond Class Indices for Image Recognition*            
     Kai Han, Xiaohu Huang, Yandong Li, Sagar Vaze, Jie Li, Xuhui Jia            
     **CVPR Workshop 2024**                  
@@ -314,13 +305,11 @@ to Generalized Category Discovery*
     [[code]](https://github.com/OatmealLiu/FineR)
     [[Project Page]](https://projfiner.github.io/)
 
-### Federated Category Discovery (FCD)
 - *Federated Generalized Category Discovery*            
     Nan Pu, Zhun Zhong, Xinyuan Ji, Nicu Sebe               
     **CVPR 2024**           
     [[paper]](https://arxiv.org/abs/2305.14107)
 
-### Category Discovery beyond Images
 - *Debiased Novel Category Discovering and Localization*            
     Juexiao Feng, Yuhong Yang, Yanchun Xie, Yaqian Li, Yandong Guo, Yuchen Guo, Yuwei He, Liuyu Xiang, Guiguang Ding
     **AAAI 2024**                   
@@ -354,7 +343,6 @@ to Generalized Category Discovery*
 
 
 ## 2023
-### Novel Category Discovery (NCD)
 - *Residual Tuning: Toward Novel Category Discovery Without Labels*         
     Yu Liu, Tinne Tuytelaars            
     **TNNLS 2023**          
@@ -390,7 +378,6 @@ to Generalized Category Discovery*
     [[paper]](https://arxiv.org/abs/2309.16451)
 
 
-### Generalized Category Discovery (GCD)
 - *OpenCon: Open-world Contrastive Learning*                    
     Yiyou Sun, Yixuan Li            
     **TMLR 2023**
@@ -453,7 +440,6 @@ to Generalized Category Discovery*
     **ICONIP 2023**             
     [[paper]](https://arxiv.org/abs/2310.19210)
 
-### Continual Category Discovery (CCD) 
 - *Proxy Anchor-based Unsupervised Learning for Continuous Generalized Category Discovery*          
     Hyungmin Kim, Sungho Suh, Daehwan Kim, Daun Jeong, Hansang Cho, Junmo Kim               
     **ICCV 2023**                   
@@ -472,20 +458,17 @@ to Generalized Category Discovery*
     [[code]](https://github.com/DTennant/Incremental-Generalized-Category-Discovery/tree/master)            
 
 
-### On-the-fly Category Discovery (OCD)
 - *On-the-Fly Category Discovery*               
     Ruoyi Du; Dongliang Chang; Kongming Liang; Timothy Hospedales; Yi-Zhe Song; Zhanyu Ma               
     **CVPR 2023**                   
     [[paper]](https://ieeexplore.ieee.org/document/10203625/authors#authors)
     [[code]](https://github.com/PRIS-CV/On-the-fly-Category-Discovery)
 
-### Category Discovery with Domain Shift (CD with Domain Shift)
 - *Boosting Novel Category Discovery Over Domains with Soft Contrastive Learning and All-in-One Classifier*             
     Zelin Zang, Lei Shang, Senqiao Yang, Fei Wang, Baigui Sun, Xuansong Xie, Stan Z. Li         
     **ICCV 2023**               
     [[paper]](https://arxiv.org/abs/2211.11262)
 
-### Distribution-Agnostic Category Discovery (DA-CD)
 - *Novel Class Discovery for Long-tailed Recognition*                   
     Chuyu Zhang, Ruijie Xu, Xuming He               
     **TMLR 2023**                   
@@ -513,7 +496,6 @@ to Generalized Category Discovery*
     **ICCV 2023 Workshop**                  
     [[paper]](https://arxiv.org/abs/2401.05352)
 
-### Federated Category Discovery (FCD)
 - *Towards Unbiased Training in Federated Open-world Semi-supervised Learning* (FedoSSL)                 
     Jie Zhang, Xiaosong Ma, Song Guo, Wenchao Xu            
     **ICML 2023**                   
@@ -521,7 +503,6 @@ to Generalized Category Discovery*
     [[code]](https://github.com/cugzj/FedoSSL)   
 
 
-### Category Discovery beyond Images
 - *NEV-NCD: Negative Learning, Entropy, and Variance regularization based novel action categories discovery*            
     Zahid Hasan, Masud Ahmed, Abu Zaher Md Faridee, Sanjay Purushotham, Heesung Kwon, Hyungtae Lee, Nirmalya Roy                
     **ICIP 2023**               
@@ -556,7 +537,6 @@ to Generalized Category Discovery*
     [[paper]](https://arxiv.org/abs/2306.12919)
 
 ## 2022
-### Novel Category Discovery (NCD)
 - Fine-grained Category Discovery under Coarse-grained supervision with Hierarchical Weighted Self-contrastive Learning   
   **EMNLP 2022**    
   [[paper]](https://arxiv.org/abs/2210.07733)
@@ -579,7 +559,6 @@ to Generalized Category Discovery*
   **ICASSP 2022**             
   [[paper]](https://ieeexplore.ieee.org/document/9747827)
 
-### Continual Category Discovery (CCD)
 - *Grow and Merge: A Unified Framework for Continuous Categories Discovery* (GM)           
   **NeurIPS 2022**           
   [[paper]](https://arxiv.org/abs/2210.04174) [[code]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/afe37ac3ce109cd33a23a6b3ed0cfc21-Abstract-Conference.html) 
@@ -590,7 +569,6 @@ to Generalized Category Discovery*
   **ECCV 2022**         
   [[paper]](https://arxiv.org/abs/2207.08605) [[code]](https://github.com/OatmealLiu/class-iNCD) 
 
-### Generalized Category Discovery (GCD)
 - *Generalized Category Discovery* (GCD)          
   **CVPR 2022**       
   [[paper]](https://arxiv.org/abs/2201.02609) [[code]](https://github.com/sgvaze/generalized-category-discovery)     
@@ -607,17 +585,14 @@ to Generalized Category Discovery*
   **ECCV 2022**               
   [[paper]](https://arxiv.org/abs/2207.02269) [[code]](https://github.com/nayeemrizve/TRSSL)
   
-### Category Discovery beyond Images
 - *A Method for Discovering Novel Classes in Tabular Data*   
   **ICKG 2022**   
   [[paper]](https://www.researchgate.net/publication/368313618_A_Method_for_Discovering_Novel_Classes_in_Tabular_Data) [[code]](https://github.com/ColinTr/TabularNCD)
 
-### Few-Shot Category Discovery (FS-CD)
 - *Meta Discovery: Learning to Discover Novel Classes given Very Limited Data* (MEDI)           
   **ICLR 2022**                
   [[paper]](https://openreview.net/forum?id=MEpKGLsY8f) [[code]](https://github.com/Haoang97/MEDI)
 
-### Category Discovery in Scene Understandings
 - *Towards Open-Set Object Detection and Discovery*               
   **CVPR Workshop 2022**             
   [[paper]](https://arxiv.org/abs/2204.05604)
@@ -626,7 +601,6 @@ to Generalized Category Discovery*
   [[paper]](https://arxiv.org/abs/2112.01900) [[code]](https://github.com/HeliosZhao/NCDSS)
 
 ## 2021
-### Novel Category Discovery (NCD)
 - *Novel Visual Category Discovery with Dual Ranking Statistics and Mutual Knowledge Distillation* (DualRS)  
   Bingchen Zhao, Kai Han  
   **NeurIPS 2021**  
@@ -652,7 +626,6 @@ to Generalized Category Discovery*
   **Neural Networks 2021**      
   [[paper]](https://www.sciencedirect.com/science/article/pii/S0893608021000575) 
 
-### Category Discovery beyond Images
 - *Joint Representation Learning and Novel Category Discovery on Single- and Multi-modal Data* (Joint)   
   Xuhui Jia, Kai Han, Yukun Zhu, Bradley Green   
   **ICCV 2021**   
@@ -660,7 +633,6 @@ to Generalized Category Discovery*
 
 
 ## 2020
-### Novel Category Discovery (NCD)
 - *Automatically Discovering and Learning New Visual Categories with Ranking Statistics* (AutoNovel)                  
     Kai Han, Sylvestre-Alvise Rebuffi, Sebastien Ehrhardt, Andrea Vedaldi, Andrew Zisserman                
     **ICLR 2020**                       
@@ -668,7 +640,6 @@ to Generalized Category Discovery*
     [[code]](https://github.com/k-han/AutoNovel)
 
 ## 2019
-### Novel Category Discovery (NCD)
 - *Learning to discover novel visual categories via deep transfer clustering* (DTC)                  
     Kai Han, Andrea Vedaldi, Andrew Zisserman                
     **ICCV 2019**                       
