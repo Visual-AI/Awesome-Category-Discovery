@@ -2,6 +2,9 @@
 
 ## 🏠 Introduction
 
+This repository collects papers on category discovery, including generalized category discovery, novel class discovery, and related open-world settings, to provide a convenient reference for researchers and practitioners.
+
+Contributions are welcome, and we warmly invite everyone to submit commits or pull requests for relevant papers and resources.
 
 ## 📚 Contents
 - [2025](#2025)
