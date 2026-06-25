@@ -66,7 +66,7 @@ Contributions are welcome, and we warmly invite everyone to submit commits or pu
 
 - *Generalized Category Discovery under Domain Shifts: From Vision to Vision-Language Models*  
     Hongjun Wang, Po Hu, Kai Han  
-    **arXiv 2026** (submitted to TPAMI)  
+    **arXiv 2026**  
     [[paper]](https://arxiv.org/abs/2605.00906)
 
 - *InfoSculpt: Sculpting the Latent Space for Generalized Category Discovery*  
