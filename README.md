@@ -7,6 +7,7 @@ This repository collects papers on category discovery, including generalized cat
 Contributions are welcome, and we warmly invite everyone to submit commits or pull requests for relevant papers and resources.
 
 ## 📚 Contents
+- [2026](#2026)
 - [2025](#2025)
 - [2024](#2024)
 - [2023](#2023)
@@ -14,6 +15,64 @@ Contributions are welcome, and we warmly invite everyone to submit commits or pu
 - [2021](#2021)
 - [2020](#2020)
 - [2019](#2019)
+
+## 2026
+- *The Devil Is in Gradient Entanglement: Energy-Aware Gradient Coordinator for Robust Generalized Category Discovery* (EAGC)  
+    Haiyang Zheng, Nan Pu, Yaqi Cai, Teng Long, Wenjing Li, Nicu Sebe, Zhun Zhong  
+    **CVPR 2026**  
+    [[paper]](https://arxiv.org/abs/2604.14176)
+    [[project page]](https://haiyangzheng.github.io/EAGC)
+
+- *Learning Like Humans: Analogical Concept Learning for Generalized Category Discovery* (ATCG)  
+    Jizhou Han, Chenhao Ding, Yuhang He, Qiang Wang, Shaokun Wang, SongLin Dong, Yihong Gong  
+    **CVPR 2026**  
+    [[paper]](https://arxiv.org/abs/2603.19918)
+    [[code]](https://github.com/zhou-9527/AnaLogical-GCD)
+
+- *Learning through Creation: A Hash-Free Framework for On-the-Fly Category Discovery* (LTC)  
+    Bohan Zhang, Weidong Tang, Zhixiang Chi, Yi Jin, Zhenbo Li, Yang Wang, Yanan Wu  
+    **CVPR 2026**  
+    [[paper]](https://arxiv.org/abs/2603.13858)
+    [[code]](https://github.com/brandinzhang/LTC)
+
+- *TALON: Test-time Adaptive Learning for On-the-Fly Category Discovery* (TALON)  
+    Yanan Wu, Yuhan Yan, Tailai Chen, Zhixiang Chi, ZiZhang Wu, Yi Jin, Yang Wang, Zhenbo Li  
+    **CVPR 2026**  
+    [[paper]](https://arxiv.org/abs/2603.08075)
+    [[code]](https://github.com/ynanwu/TALON)
+
+- *SpectralGCD: Spectral Concept Selection and Cross-modal Representation Learning for Generalized Category Discovery*  
+    Lorenzo Caselli, Marco Mistretta, Simone Magistri, Andrew D. Bagdanov  
+    **ICLR 2026**  
+    [[paper]](https://arxiv.org/abs/2602.17395)
+    [[code]](https://github.com/miccunifi/SpectralGCD)
+
+- *PartCo: Part-Level Correspondence Priors Enhance Category Discovery* (PartCo)  
+    Fernando Julio Cendra, Kai Han  
+    **ICML 2026**  
+    [[paper]](https://arxiv.org/abs/2509.22769)
+    [[project page]](https://visual-ai.github.io/partco)
+
+- *Learning a Fix and Explore Framework for Continuous Generalized Category Discovery* (FaE)  
+    Chunming Li, Shidong Wang, Haofeng Zhang  
+    **AAAI 2026**  
+    [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37530)
+
+- *GLEAN: Active Generalized Category Discovery with Diverse LLM Feedback* (GLEAN)  
+    Henry Peng Zou, Siffi Singh, Yi Nian, Jianfeng He, Jason Cai, Saab Mansour, Hang Su  
+    **EACL 2026**  
+    [[paper]](https://arxiv.org/abs/2502.18414)
+    [[code]](https://github.com/amazon-science/Glean)
+
+- *Generalized Category Discovery under Domain Shifts: From Vision to Vision-Language Models*  
+    Hongjun Wang, Po Hu, Kai Han  
+    **arXiv 2026** (submitted to TPAMI)  
+    [[paper]](https://arxiv.org/abs/2605.00906)
+
+- *InfoSculpt: Sculpting the Latent Space for Generalized Category Discovery*  
+    Wenwen Liao, Hang Ruan, Jianbo Yu, Yuansong Wang, Qingchao Jiang, Xiaofeng Yang  
+    **arXiv 2026**  
+    [[paper]](https://arxiv.org/abs/2601.10098)
 
 ## 2025
 - *ProtoGCD: Unified and Unbiased Prototype Learning for Generalized Category Discovery*  
@@ -131,6 +190,104 @@ discovery robust to domain shift*
     **AAAI 2025**       
     [[paper]](https://arxiv.org/abs/2412.12501)
     [[code]](https://github.com/Lackel/SDC)
+
+- *HIDISC: A Hyperbolic Framework for Domain Generalization with Generalized Category Discovery*  
+    Vaibhav Rathore, Divyam Gupta, Biplab Banerjee  
+    **NeurIPS 2025**  
+    [[paper]](https://arxiv.org/abs/2510.17188)
+
+- *Generalized Category Discovery under Domain Shift: A Frequency Domain Perspective* (FREE)  
+    Wei Feng, Zongyuan Ge  
+    **NeurIPS 2025**  
+    [[paper]](https://arxiv.org/abs/2511.00573)
+
+- *Consistent Supervised-Unsupervised Alignment for Generalized Category Discovery* (NC-GCD)  
+    Jizhou Han, Shaokun Wang, Yuhang He, Chenhao Ding, Qiang Wang, Xinyuan Gao, SongLin Dong, Yihong Gong  
+    **NeurIPS 2025**  
+    [[paper]](https://arxiv.org/abs/2507.04725)
+
+- *Novel Class Discovery for Point Cloud Segmentation via Joint Learning of Causal Representation and Reasoning*  
+    Yang Li, Aming Wu, Zihao Zhang, Yahong Han  
+    **NeurIPS 2025**  
+    [[paper]](https://arxiv.org/abs/2510.13307)
+
+- *AllGCD: Leveraging All Unlabeled Data for Generalized Category Discovery*  
+    Xinzi Cao, Ke Chen, Feidiao Yang, Xiawu Zheng, Yonghong Tian, Yutong Lu  
+    **ICCV 2025**  
+    [[paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Cao_AllGCD_Leveraging_All_Unlabeled_Data_for_Generalized_Category_Discovery_ICCV_2025_paper.html)
+
+- *Generalized Category Discovery via Reciprocal Learning and Class-Wise Distribution Regularization*  
+    Duo Liu, Zhiquan Tan, Linglan Zhao, Zhongqiang Zhang, Xiangzhong Fang, Weiran Huang  
+    **ICML 2025**  
+    [[paper]](https://arxiv.org/abs/2506.02334)
+    [[code]](https://github.com/APORduo/RLCD)
+
+- *Adaptive Part Learning for Fine-Grained Generalized Category Discovery: A Plug-and-Play Enhancement* (APL)  
+    Qiyuan Dai, Hanzhuo Huang, Yu Wu, Sibei Yang  
+    **CVPR 2025**  
+    [[paper]](https://arxiv.org/abs/2507.06928)
+
+- *Composing Novel Classes: A Concept-Driven Approach to Generalized Category Discovery* (ConceptGCD)  
+    Chuyu Zhang, Peiyan Gu, Xueyang Yu, Xuming He  
+    **ICLR 2025**  
+    [[paper]](https://arxiv.org/abs/2410.13285)
+
+- *Novel Category Discovery with X-Agent Attention for Open-Vocabulary Semantic Segmentation*  
+    Jiahao Li, Yang Lu, Yachao Zhang, Fangyong Wang, Yuan Xie, Yanyun Qu  
+    **ACM MM 2025**  
+    [[paper]](https://arxiv.org/abs/2509.01275)
+
+- *LLM-Enhanced Generalized Category Discovery via Iterative Graph Diffusion*  
+    Kangjia Fan, Yilong Zhao, Daifeng Li, Changze Lin, Weijun Zhang, Zhiwen Zhong  
+    **CIKM 2025**  
+    [[paper]](https://dl.acm.org/doi/10.1145/3746252.3760997)
+
+- *Component Adaptive Clustering for Generalized Category Discovery* (AdaGCD)  
+    Mingfu Yan, Jiancheng Huang, Yifan Liu, Shifeng Chen  
+    **ICME 2025**  
+    [[paper]](https://arxiv.org/abs/2507.01711)
+
+- *Sharpness-aware Dynamic Anchor Selection for Generalized Category Discovery*  
+    Zhimao Peng, Enguang Wang, Fei Yang, Xialei Liu, Ming-Ming Cheng  
+    **IEEE TMM 2025**  
+    [[paper]](https://arxiv.org/abs/2512.12925)
+
+- *Generalized Fine-Grained Category Discovery with Multi-Granularity Conceptual Experts* (MGCE)  
+    Haiyang Zheng, Nan Pu, Wenjing Li, Nicu Sebe, Zhun Zhong  
+    **arXiv 2025**  
+    [[paper]](https://arxiv.org/abs/2509.26227)
+    [[code]](https://github.com/HaiyangZheng/MGCE)
+
+- *Generalized Category Discovery via Token Manifold Capacity Learning* (MTMC)  
+    Luyao Tang, Kunze Huang, Chaoqi Chen, Cheng Chen  
+    **arXiv 2025**  
+    [[paper]](https://arxiv.org/abs/2505.14044)
+    [[code]](https://github.com/lytang63/MTMC)
+
+- *Video-based Generalized Category Discovery via Memory-Guided Consistency-Aware Contrastive Learning*  
+    Jing Zhang, Nan Pu, Yu Xiang Xie, Yanming Guo, Qianqi Lu, Shiwei Zou, Jie Yan, Yan Chen  
+    **arXiv 2025**  
+    [[paper]](https://arxiv.org/abs/2509.06306)
+
+- *Generalized Category Discovery in Hyperspectral Images via Prototype Subspace Modeling*  
+    Xianlu Li, Nicolas Nadisic, Shaoguang Huang, Aleksandra Pizurica  
+    **arXiv 2025**  
+    [[paper]](https://arxiv.org/abs/2509.24017)
+
+- *Generalized Category Discovery under the Long-Tailed Distribution*  
+    Bingchen Zhao, Kai Han  
+    **arXiv 2025**  
+    [[paper]](https://arxiv.org/abs/2506.12515)
+
+- *VLM-NCD: Novel Class Discovery with Vision-Based Large Language Models*  
+    Yuetong Su, Baoguo Wei, Xinyu Wang, Xu Li, Lixin Li  
+    **arXiv 2025**  
+    [[paper]](https://arxiv.org/abs/2512.10262)
+
+- *NILC: Discovering New Intents with LLM-assisted Clustering*  
+    Hongtao Wang, Renchi Yang, Wenqing Lin  
+    **arXiv 2025**  
+    [[paper]](https://arxiv.org/abs/2511.05913)
 
 ## 2024
 - *Novel Class Discovery for Ultra-Fine-Grained Visual Categorization* (RAPL)                               
