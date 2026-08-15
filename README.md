@@ -4,6 +4,8 @@
 
 This repository collects papers on category discovery, including generalized category discovery, novel class discovery, and related open-world settings, to provide a convenient reference for researchers and practitioners.
 
+Last updated: **August 15, 2026**. Venue labels are based on official proceedings or conference records; manuscripts without a verified acceptance remain labeled as arXiv.
+
 Contributions are welcome, and we warmly invite everyone to submit commits or pull requests for relevant papers and resources.
 
 ## 📚 Contents
@@ -29,11 +31,47 @@ Contributions are welcome, and we warmly invite everyone to submit commits or pu
     [[paper]](https://arxiv.org/abs/2603.19918)
     [[code]](https://github.com/zhou-9527/AnaLogical-GCD)
 
-- *Learning through Creation: A Hash-Free Framework for On-the-Fly Category Discovery* (LTC)  
-    Bohan Zhang, Weidong Tang, Zhixiang Chi, Yi Jin, Zhenbo Li, Yang Wang, Yanan Wu  
+- *TAR: Token-Aware Refinement for Fine-grained Generalized Category Discovery*  
+    Xingyu Yang, Yu Zhang, Siya Mi, Xiu-Shen Wei  
     **CVPR 2026**  
-    [[paper]](https://arxiv.org/abs/2603.13858)
-    [[code]](https://github.com/brandinzhang/LTC)
+    [[paper]](https://openaccess.thecvf.com/content/CVPR2026/html/Yang_TAR_Token-Aware_Refinement_for_Fine-grained_Generalized_Category_Discovery_CVPR_2026_paper.html)
+    [[code]](https://github.com/VectorYangYiStar/TAR)
+
+- *Decouple Your Discovery and Memory in Continual Generalized Category Discovery* (DYDM)  
+    Jiawei Yu, Zijian Gao, Xingxing Zhang, Xuan Liu, Huaimin Wang, Kele Xu  
+    **CVPR 2026**  
+    [[paper]](https://openaccess.thecvf.com/content/CVPR2026/html/Yu_Decouple_Your_Discovery_and_Memory_in_Continual_Generalized_Category_Discovery_CVPR_2026_paper.html)
+
+- *Geometric-Aware Hypergraph Reasoning for Novel Class Discovery in Point Cloud Segmentation*  
+    Zihao Zhang, Aming Wu, Yang Li, Yahong Han, Jialie Shen  
+    **CVPR 2026**  
+    [[paper]](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Geometric-Aware_Hypergraph_Reasoning_for_Novel_Class_Discovery_in_Point_Cloud_CVPR_2026_paper.html)
+
+- *Assignment-Driven Hash Learning in a Hyper-Semantic Space for On-the-Fly Category Discovery*  
+    Kaibing Yang, Yucheng Wang, Tingzhang Luo  
+    **CVPR 2026**  
+    [[paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Yang_Assignment-Driven_Hash_Learning_in_a_Hyper-Semantic_Space_for_On-the-Fly_Category_Discovery_CVPR_2026_paper.pdf)
+
+- *Beyond the Static World: Continual Category Discovery under Visual Drift*  
+    Wei Feng, Yiwen Jiang, Sijin Zhou, Zongyuan Ge  
+    **CVPR 2026**  
+    [[paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Feng_Beyond_the_Static_World_Continual_Category_Discovery_under_Visual_Drift_CVPR_2026_paper.pdf)
+
+- *Multi-Modal Representation Learning via Semi-Supervised Rate Reduction for Generalized Category Discovery* (SSR2-GCD)  
+    Wei He, Xianghan Meng, Zhiyuan Huang, Xianbiao Qi, Rong Xiao, Chun-Guang Li  
+    **CVPR 2026**  
+    [[paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/He_Multi-Modal_Representation_Learning_via_Semi-Supervised_Rate_Reduction_for_Generalized_Category_CVPR_2026_paper.pdf)
+    [[code]](https://github.com/hewei98/SSR2-GCD)
+
+- *Seeing Through the Shift: Causality-Inspired Robust Generalized Category Discovery*  
+    Wei Feng, Yiwen Jiang, Sijin Zhou, Zhuang Qi, Zhongxing Xu, Zhonghua Wang, Feilong Tang, Zongyuan Ge  
+    **CVPR 2026**  
+    [[paper]](https://openaccess.thecvf.com/content/CVPR2026/html/Feng_Seeing_Through_the_Shift_Causality-Inspired_Robust_Generalized_Category_Discovery_CVPR_2026_paper.html)
+
+- *NoOVD: Novel Category Discovery and Embedding for Open-Vocabulary Object Detection*  
+    Yupeng Zhang, Ruize Han, Zhiwei Chen, Wei Feng, Liang Wan  
+    **CVPR 2026**  
+    [[paper]](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_NoOVD_Novel_Category_Discovery_and_Embedding_for_Open-Vocabulary_Object_Detection_CVPR_2026_paper.html)
 
 - *TALON: Test-time Adaptive Learning for On-the-Fly Category Discovery* (TALON)  
     Yanan Wu, Yuhan Yan, Tailai Chen, Zhixiang Chi, ZiZhang Wu, Yi Jin, Yang Wang, Zhenbo Li  
@@ -41,17 +79,81 @@ Contributions are welcome, and we warmly invite everyone to submit commits or pu
     [[paper]](https://arxiv.org/abs/2603.08075)
     [[code]](https://github.com/ynanwu/TALON)
 
+- *Learning through Creation: A Hash-Free Framework for On-the-Fly Category Discovery* (LTC)  
+    Bohan Zhang, Weidong Tang, Zhixiang Chi, Yi Jin, Zhenbo Li, Yang Wang, Yanan Wu  
+    **CVPR 2026 Findings**  
+    [[paper]](https://arxiv.org/abs/2603.13858)
+    [[code]](https://github.com/brandinzhang/LTC)
+
+- *Label-Agnostic Category Discovery*  
+    Yuwei Bian, Shidong Wang, Chunming Li, Haofeng Zhang  
+    **CVPR 2026 Findings**  
+    [[paper]](https://openaccess.thecvf.com/content/CVPR2026F/html/Bian_Label-Agnostic_Category_Discovery_CVPRF_2026_paper.html)
+
+- *OmniGCD: Abstracting Generalized Category Discovery for Modality Agnosticism*  
+    Jordan Shipard, Arnold Wiliem, Kien Nguyen Thanh, Wei Xiang, Clinton Fookes  
+    **CVPR 2026 Findings**  
+    [[paper]](https://openaccess.thecvf.com/content/CVPR2026F/html/Shipard_OmniGCD_Abstracting_Generalized_Category_Discovery_for_Modality_Agnosticism_CVPRF_2026_paper.html)
+
+- *Virtual Category-Guided Continual Generalized Category Discovery* (VC-CGCD)  
+    Jiahui Xiong, Qiuxia Lai, Hongsong Wang  
+    **ECCV 2026**  
+    [[paper]](https://arxiv.org/abs/2607.04984)
+    [[code]](https://github.com/Mrxjh105/VC-CGCD)
+
 - *SpectralGCD: Spectral Concept Selection and Cross-modal Representation Learning for Generalized Category Discovery*  
     Lorenzo Caselli, Marco Mistretta, Simone Magistri, Andrew D. Bagdanov  
     **ICLR 2026**  
     [[paper]](https://arxiv.org/abs/2602.17395)
     [[code]](https://github.com/miccunifi/SpectralGCD)
 
+- *Adaptive Gaussian Expansion for On-the-fly Category Discovery* (AGE)  
+    Chunming Li, Shidong Wang, Haofeng Zhang  
+    **ICLR 2026**  
+    [[paper]](https://openreview.net/forum?id=Y59JeAbM3j)
+
+- *Bures-Isotropy Alignment: Manifold Learning of Generalized Category Discovery*  
+    Luyao Tang, Kunze Huang, Chaoqi Chen, Cheng Chen  
+    **ICLR 2026**  
+    [[paper]](https://openreview.net/forum?id=nfVKTJ1MJ3)
+
+- *PRISM: Progressive Robust Learning for Open-World Continual Category Discovery*  
+    Wei Feng, Sijin Zhou, Yiwen Jiang, Zongyuan Ge  
+    **ICLR 2026**  
+    [[paper]](https://openreview.net/forum?id=5JwUWsewWH)
+
 - *PartCo: Part-Level Correspondence Priors Enhance Category Discovery* (PartCo)  
     Fernando Julio Cendra, Kai Han  
     **ICML 2026**  
     [[paper]](https://arxiv.org/abs/2509.22769)
     [[project page]](https://visual-ai.github.io/partco)
+
+- *CoGe-GCD: Reframing Generalized Category Discovery with Compositional Generalization*  
+    Luyao Tang, Jiewei Zheng, Kunze Huang, Chaoqi Chen, Yue Huang, Cheng Chen  
+    **ICML 2026**  
+    [[paper]](https://openreview.net/forum?id=YA3AvVx2Ze)
+
+- *CURE: Consistency-under-Unified Semantic Regularization for Generalized Category Discovery*  
+    Yuwei Bian, Shidong Wang, Haofeng Zhang  
+    **ICML 2026**  
+    [[paper]](https://openreview.net/forum?id=IQNU17Cdk3)
+
+- *Identifying Latent Concepts and Structures for Generalized Category Discovery* (CPF-GCD)  
+    Boyang Dai, Chaoqi Chen, Yizhou Yu  
+    **ICML 2026**  
+    [[paper]](https://openreview.net/forum?id=dyubtJ2dtZ)
+    [[code]](https://github.com/Michael-McQueen/CPF)
+
+- *Reliable Confidence Alignment for Generalized Category Discovery* (RCA)  
+    Jiawei Yu, Zijian Gao, Tianjiao Wan, Xuan Liu, Cheng Yang, Kele Xu  
+    **ICML 2026**  
+    [[paper]](https://openreview.net/forum?id=ztvohV1CJl)
+
+- *Memory Consistency Guided Divide-and-Conquer Learning for Generalized Category Discovery* (MCDL)  
+    Yuanpeng Tu, Zhun Zhong, Yuxi Li, Hengshuang Zhao  
+    **IJCV 2026**  
+    [[paper]](https://link.springer.com/article/10.1007/s11263-026-02745-y)
+    [[arXiv]](https://arxiv.org/abs/2401.13325)
 
 - *Learning a Fix and Explore Framework for Continuous Generalized Category Discovery* (FaE)  
     Chunming Li, Shidong Wang, Haofeng Zhang  
@@ -86,8 +188,7 @@ Contributions are welcome, and we warmly invite everyone to submit commits or pu
   **IJCV 2025**. 
   [[Paper]](https://link.springer.com/article/10.1007/s11263-024-02343-w) 
 
-- *SEAL: Semantic-aware hierarchical learning for general-
-ized category discover*    
+- *SEAL: Semantic-Aware Hierarchical Learning for Generalized Category Discovery*    
     Zhenqi He, Yuanpei Liu, Kai Han      
     **NeurIPS 2025**    
     [[paper]](https://openreview.net/pdf?id=B7lygdSDii)
@@ -150,6 +251,11 @@ Prompt Transformer for Generalized Category Discovery* (AptGCD)
     [[paper]](https://arxiv.org/abs/2504.06120)
     [[code]](https://github.com/Visual-AI/HypCD)
     [[project page]](https://visual-ai.github.io/hypcd/)
+
+- *When Domain Generalization Meets Generalized Category Discovery: An Adaptive Task-Arithmetic Driven Approach*  
+    Vaibhav Rathore, Shubhranil B, Saikat Dutta, Sarthak Mehrotra, Zsolt Kira, Biplab Banerjee  
+    **CVPR 2025**  
+    [[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Rathore_When_Domain_Generalization_meets_Generalized_Category_Discovery_An_Adaptive_Task-Arithmetic_CVPR_2025_paper.html)
 
 
 - *Continual Generalized Category Discovery: Learning and Forgetting from a Bayesian Perspective* (VB-CGCD)      
